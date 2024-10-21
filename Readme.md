@@ -12,7 +12,9 @@
 </ul>
 
 <h3>REPR Pattern</h3>
-<a href="https://deviq.com/design-patterns/repr-design-pattern">REPR(Request, Endpoint, Response) Pattern | DevIQ</a>
+<ul>
+<li><a href="https://deviq.com/design-patterns/repr-design-pattern">REPR (Request, Endpoint, Response) Pattern | DevIQ</a></li>
+</ul>
 
 <h3>Vertical Slice Architecture</h3>
 <ul>
