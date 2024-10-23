@@ -9,6 +9,7 @@
 <ul>
 <li><a href="https://medium.com/@pererikbergman/repository-design-pattern-e28c0f3e4a30">Repository Design Pattern | Medium</a></li>
 <li><a href="https://deviq.com/design-patterns/repository-pattern"> Repository Pattern | DevIQ</a></li>
+<li><a href="https://www.youtube.com/watch?v=8fFBWmbUaIg">How to use the Repository Design Pattern in C# and ASP.NET</a></li>
 </ul>
 
 <h3>REPR Pattern</h3>
